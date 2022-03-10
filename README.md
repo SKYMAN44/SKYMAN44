@@ -1,8 +1,8 @@
 ### Hi there 👋
-- 🏫 I'm currently a junior student at HSE Moscow, majoring in computer science .  
-- 💙 Love swift and IOS 🍏 dev .
-- 📫 email: sokdep@yandex.ru .
-- 🛫 tg: @sky_man44 .
+- 🏫 I'm currently in my junior year at HSE Moscow, majoring in computer science
+- 💙 Love swift and IOS 🍏 dev
+- 📫 email: sokdep@yandex.ru
+- 🛫 tg: @sky_man44
 <!--
 **SKYMAN44/SKYMAN44** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
