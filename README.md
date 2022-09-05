@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 ![](https://komarev.com/ghpvc/?username=SKYMAN44&color=ff69b4)
 - 🏫 I'm currently in my junior year at HSE Moscow, majoring in computer science
 - 💙 Love swift and IOS 🍏 dev
 - 📫 email: sokdep@yandex.ru
