@@ -1,9 +1,4 @@
 ### Hi there 👋 !
-- 🏫 I'm currently in my senior year at HSE Moscow, majoring in computer science
-- 💙 Love swift and IOS 🍏 dev
-- 📫 email: sokdep@yandex.ru
-- 🛫 tg: @sky_man44
-<!--
 **SKYMAN44/SKYMAN44** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
